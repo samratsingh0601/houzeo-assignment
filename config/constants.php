@@ -1,0 +1,30 @@
+<?php
+return array(			
+		// constants messages //
+		"list_fetch_success" => "List Fetched Successfully",
+		"list_fetch_fail" => "List Not Found",
+		"unauthenticated" => "Unauthenticated",
+		"server_error" => "Internal Server Error",
+		"sign_up_success" => "User Successfully created!",
+		"login_success" => "Successfully logged in",
+		"logout_success" => "Successfully logged out",
+		"email_not_found" => "Email not found",
+		"wrong_password" => "Wrong password",
+		"email_sent" => "We have sent you an Email, Please check your email",
+		"wrong_current_password" => "Current password don't match",
+		"password_change_success" => "Password successfully changed",
+		"something_went_wrong" => "Something went wrong",
+		"mobile_no_already_taken" => "The mobile no has already been taken.",
+		"profile_edit_success" => "Profile edited successfully",
+		"comment_post_success" => "Comment successfully posted",
+		"successfully_saved" => "Successfully Saved",
+		"status_true" => true,
+		"status_false" => false,
+		"response_code_success" => 200,
+		"response_code_not_found" => 404,
+		"response_code_server_error" => 500,
+		"response_code_unauthenticated" => 401,
+		"minimum_categories_count_to_select" => 3,
+		"minimum_categories_count_to_select" => 3,
+		// end constants messages //
+		);
